@@ -1,0 +1,14 @@
+{
+    "apikey": "deadbeefdeadbeefdeadbeefdeadbeef",
+    "insttoken": "",
+    "baseapi_AUID": "https://api.elsevier.com/content/search/author",
+    "baseapi_Scival": "https://api.elsevier.com/analytics/scival/author/metrics",
+    "Author_Name_ScopusID": "Author_List.csv",
+    "Output_ScopusID":"Author_List_Scopus.csv",
+    "Output_NoScopusID":"Author_List_No_Scopus.csv",
+    "Output_Scivalmetrics" : "Authors_Scival_Metrics.csv",
+    "Output_Merged_Stage_3" : "Stage_3_Output_Author_Data.csv",
+    "All_Data_Merged_Stage_4" : "Stage_4_All_Data.csv",
+    "Virginia_Tech_AFID": "60027090",
+    "VT_COE_AFID" : "60157272"
+}
